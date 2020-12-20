@@ -1,0 +1,8 @@
+SKIP LINE
+1, 1, 3
+1, 1
+3rtrgf
+2, 1
+tg
+reer
+1, 10
